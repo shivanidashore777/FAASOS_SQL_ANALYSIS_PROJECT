@@ -1,0 +1,7 @@
+customer_id,Case_count,count_order_id
+101,"NO Change",2
+102,"NO Change",3
+103," Atleast one Change",3
+104," Atleast one Change",2
+105," Atleast one Change",1
+104,"NO Change",1

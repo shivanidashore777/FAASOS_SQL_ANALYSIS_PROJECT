@@ -1,0 +1,9 @@
+CUSTOMER_ID,category,ORDERS_COUNT
+102,Veg,1
+103,Veg,1
+101,Veg,1
+105,Veg,1
+101,"Non Veg",2
+102,"Non Veg",2
+103,"Non Veg",3
+104,"Non Veg",3
